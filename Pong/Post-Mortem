@@ -1,0 +1,22 @@
+========================================================
+Victories
+========================================================
+Made god damn pong. How's that for a victory?
+
+Despite what Nicole might tell you, collision was way easier than I expected it to be on the 2D plane. Though I'm sad I couldn't use an array to any sort of effectiveness and took a very blunt route with ternary operations to acheive it. All this being said, I won't have the adjective of "cocky" when we get to 3D collision.
+
+I blasted right through pong. I quickly figured out what I wanted and hopw to do it. Only  a couple of snags here and there, and the only thing that got me was the fact that things just took a long time to do. 
+
+========================================================
+I'll call it a draw
+========================================================
+Making the AI to get it to the state where actualy hit the ball was less straight forward than I assumed it would be. As such, it took a lot longer to figure out how to tell the computer to calc the slope of the ball than it should have had I not any pre-conceived ideas of the process. After all, a computer is not ahuman, and therefore cannot od the "Hey, this is what they said, but this is what they meant" function.
+
+The actual menu transisitons were far easier than expected, but It took me  awhile to figure out that using while loops in while loops was freezing the comp. This caused some issues, but as soon as I devised how to get everything inside one loop, it all went fine and dandy.
+
+========================================================
+"F*CK! DAMMIT! MOTHERF*CKER! SON B*TCH! WHY AM I DOING THIS FOR A LIVING?! F*CK!" moments
+========================================================
+Making Q with SFW... all the other letters (excpet C) where easy, but damn.
+
+Menus where hard. Very hard. Of course if I diodnt make it scaleable witht he screen size I probbaly couldve cranked it out in a few hours insterd of having to take near 40 minutes per word, and selection box to make i tperfect.
